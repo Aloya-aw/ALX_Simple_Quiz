@@ -1,0 +1,1 @@
+This repository contains a simple interactive quiz for javascript practice.
