@@ -1,1 +1,1 @@
-This repository contains a simple interactive quiz for javascript practice.
+This repository contains a simple interactive quiz and a smple calculator for javascript practice.
